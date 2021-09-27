@@ -17,12 +17,12 @@ namespace Assignment_4
             PlayerModel[] players;
             var WinnerList = new List<WinnersModel>();
             #endregion
-            Console.WriteLine("How many players:");
+            Console.WriteLine("Number of players:");
             playerCount = Convert.ToInt32(Console.ReadLine());
             if (playerCount > 4)
             {
                 players = _playerServices.SetPlayer(4);
-                Console.WriteLine("Opps !!! Too many players. We are setting for 4 players");
+                Console.WriteLine("Sorry!! This game only for 4 persons");
             }
             else{
                 players = _playerServices.SetPlayer(playerCount);
@@ -44,8 +44,8 @@ namespace Assignment_4
                 }
                 while (playerEnd == 0)
                 {                   
-                    Console.WriteLine("Now play Player-" + CurrentPlayer);
-                    Console.WriteLine("Please press anykey to roll the dice\n");
+                    Console.WriteLine("Current Player-" + CurrentPlayer);
+                    Console.WriteLine("press anykey to roll the dice\n");
                     Console.ReadKey();
                     Console.WriteLine("rolling.....\n");
                     IDice iDices = new Dices();
@@ -68,7 +68,7 @@ namespace Assignment_4
                         bool IsPiceOnBordExist = _playerServices.IsPiceOnBord(players[CurrentPlayer]);
                         if (IsImmatureExist)
                         {
-                            msg += "Press 1 for Putting piece to board";
+                            msg += "Press 1 to put the piece on board";
                         }
                         if (IsPiceOnBordExist)
                         {
@@ -104,12 +104,12 @@ namespace Assignment_4
                         }
                         else if (n == 2)
                         {
-                            Console.WriteLine("which piece do you want to continue?");
+                            Console.WriteLine("which one do you want to continue?");
                             for (int i = 0; i < 4; i++)
                             {
                                 if (players[CurrentPlayer].Pices[i] == 73)
                                 {
-                                    Console.WriteLine("Piece-" + i + " :Position = Not put to board yet.\n");
+                                    Console.WriteLine("Piece-" + i + " :Position = Not put on board yet.\n");
                                 }
                                 else
                                 {
@@ -124,7 +124,7 @@ namespace Assignment_4
                                 int pieceToContinue = Convert.ToInt32(Console.ReadLine());
                                 if(_playerServices.IsPicePossibleToMove(players[CurrentPlayer].Pices[pieceToContinue], diceNumber) == false)
                                 {
-                                    Console.WriteLine("Unable to Move. Please select another pice");
+                                    Console.WriteLine("Can't Move. Please select another one");
                                 }
                                 else{
                                     players[CurrentPlayer].Pices[pieceToContinue] -= diceNumber;
@@ -139,7 +139,7 @@ namespace Assignment_4
                         bool isPlayerAbleToPlay = _playerServices.isPlayerAbleToPlay(players[CurrentPlayer]);
                         if (isPlayerAbleToPlay == false) continue;
 
-                        Console.WriteLine("which piece do you want to continue?");
+                        Console.WriteLine("which one do you want to continue?");
                         for (int i = 0; i < 4; i++)
                         {
                             if (players[CurrentPlayer].Pices[i] == 73)
@@ -158,11 +158,11 @@ namespace Assignment_4
                             int pieceToContinue = Convert.ToInt32(Console.ReadLine());
                             if(pieceToContinue>3 && pieceToContinue < 0)
                             {
-                                Console.WriteLine("Wrong choiche. Please choose again ");
+                                Console.WriteLine("Wrong one. Please choose again ");
                             }
                             else if (_playerServices.IsPicePossibleToMove(players[CurrentPlayer].Pices[pieceToContinue], diceNumber) == false)
                             {
-                                Console.WriteLine("Unable to Move. Please select another pice");
+                                Console.WriteLine("Can't Move. Please select another one");
                             }
                             else
                             {

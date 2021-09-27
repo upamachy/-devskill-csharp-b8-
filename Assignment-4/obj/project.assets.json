@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hp\\.nuget\\packages\\": {}
+    "C:\\Users\\Upama Chowdhury\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Assignment-4 - Copy\\Assignment-4\\Assignment-4.csproj",
+      "projectUniqueName": "F:\\upama\\-devskill-csharp-b8-\\-devskill-csharp-b8-\\Assignment-4\\Assignment-4.csproj",
       "projectName": "Assignment-4",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Assignment-4 - Copy\\Assignment-4\\Assignment-4.csproj",
-      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\Assignment-4 - Copy\\Assignment-4\\obj\\",
+      "projectPath": "F:\\upama\\-devskill-csharp-b8-\\-devskill-csharp-b8-\\Assignment-4\\Assignment-4.csproj",
+      "packagesPath": "C:\\Users\\Upama Chowdhury\\.nuget\\packages\\",
+      "outputPath": "F:\\upama\\-devskill-csharp-b8-\\-devskill-csharp-b8-\\Assignment-4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Upama Chowdhury\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

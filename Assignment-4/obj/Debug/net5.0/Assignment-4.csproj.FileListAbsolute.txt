@@ -1,0 +1,48 @@
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\bin\Debug\net5.0\Assignment-4.exe
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\bin\Debug\net5.0\Assignment-4.deps.json
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\bin\Debug\net5.0\Assignment-4.runtimeconfig.json
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\bin\Debug\net5.0\Assignment-4.runtimeconfig.dev.json
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\bin\Debug\net5.0\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\bin\Debug\net5.0\ref\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\bin\Debug\net5.0\Assignment-4.pdb
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.csproj.AssemblyReference.cache
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.AssemblyInfoInputs.cache
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.AssemblyInfo.cs
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.csproj.CoreCompileInputs.cache
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\ref\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.pdb
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4\Assignment-4\obj\Debug\net5.0\Assignment-4.genruntimeconfig.cache
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.csproj.AssemblyReference.cache
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.AssemblyInfoInputs.cache
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.AssemblyInfo.cs
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.csproj.CoreCompileInputs.cache
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\ref\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.pdb
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.exe
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.deps.json
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.runtimeconfig.json
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.runtimeconfig.dev.json
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\ref\Assignment-4.dll
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.pdb
+G:\Dev Skil C#\Batch-b8 Practice\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.exe
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.deps.json
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.runtimeconfig.json
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.dll
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\ref\Assignment-4.dll
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\bin\Debug\net5.0\Assignment-4.pdb
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.dll
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\ref\Assignment-4.dll
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.pdb
+C:\Users\Hp\Desktop\Assignment-4 - Copy\Assignment-4\obj\Debug\net5.0\Assignment-4.genruntimeconfig.cache

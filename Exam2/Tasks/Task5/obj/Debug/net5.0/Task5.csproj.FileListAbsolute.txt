@@ -1,0 +1,16 @@
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\bin\Debug\net5.0\Task5.exe
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\bin\Debug\net5.0\Task5.deps.json
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\bin\Debug\net5.0\Task5.runtimeconfig.json
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\bin\Debug\net5.0\Task5.runtimeconfig.dev.json
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\bin\Debug\net5.0\Task5.dll
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\bin\Debug\net5.0\ref\Task5.dll
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\bin\Debug\net5.0\Task5.pdb
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.csproj.AssemblyReference.cache
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.AssemblyInfoInputs.cache
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.AssemblyInfo.cs
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.csproj.CoreCompileInputs.cache
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.dll
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\ref\Task5.dll
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.pdb
+F:\upama\-devskill-csharp-b8-\-devskill-csharp-b8-\Exam2\Tasks\Task5\obj\Debug\net5.0\Task5.genruntimeconfig.cache

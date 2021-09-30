@@ -13,7 +13,7 @@ namespace Task2Tests
         [Test]
         [TestCase(4, false)]
         [TestCase(9, true)]
-        public void SubtractTest(int a, int r)
+        public void SubtractTest(int a, bool r)
         {
             Assert.AreEqual(r, a.IsOdd());
         }

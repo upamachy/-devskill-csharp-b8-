@@ -6,7 +6,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            int a = 9;
+            int a = 5;
             var result = a.IsOdd();
             Console.WriteLine(result);
         }

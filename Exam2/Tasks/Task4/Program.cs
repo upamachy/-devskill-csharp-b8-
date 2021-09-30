@@ -27,17 +27,23 @@ namespace Task4
 
             var result = Combine(customers, products);
 
-            foreach(var item in result)
+            foreach (var item in result)
             {
                 Console.WriteLine($"Customer Name: {item.customerName}, Product Name: {item.productName}, Price: {item.price}");
             }
         }
 
         public static List<(string customerName, int customerAge, string productName, double price)> Combine(
-            List<(string name, int age)> customers, 
+            List<(string name, int age)> customers,
             List<(string name, string customerName, double price)> products)
         {
-            throw new NotImplementedException();
+
+            var dataSource = from cus in customers
+                       join pro in products on cus.name equals pro.customerName
+                       select (cus.name, cus.age, pro.name, pro.price);
+
+            return dataSource.ToList();
+
         }
     }
 }

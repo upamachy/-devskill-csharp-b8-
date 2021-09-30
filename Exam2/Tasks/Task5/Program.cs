@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Task5
 {
@@ -7,6 +8,7 @@ namespace Task5
         static void Main(string[] args)
         {
             // Write your code here. No unit test for this task.
+            File.Create("Hello.txt");
         }
     }
 }
